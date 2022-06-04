@@ -2,8 +2,7 @@
 
 ## Learning Goals
 
--
-- Learning Goal 2
+- Use generics boundaries in Java
 
 Sometimes when you create a method that accepts generics, you may still want to
 restrict the types of objects that can be passed into your method because your
