@@ -25,8 +25,8 @@ in a list. Using unbounded generics, you might define this method as follows:
 ```
 
 Note that in order to get the numerical value from our `numberList`, we need to
-convert each element of the list of `Number`. This works fine if call the method
-with a list of objects of a type compatible with `Number`:
+convert each element of the list of `Number`. This works fine if we call the 
+method with a list of objects of a type compatible with `Number`:
 
 ```java
     public static void main(String[] args) {
